@@ -3,4 +3,4 @@
 
 可用于快速创建基于typescript、react、jest的前端项目。
 
-依赖分析：https://chrisbateman.github.io/webpack-visualizer/
+[依赖分析](https://chrisbateman.github.io/webpack-visualizer/)

@@ -7,6 +7,6 @@ module.exports = {
     './tests/jest-setup.ts'
   ],
   transform: {
-    '\\.less$': 'jest-less-loader' // 支持less
+    '.+\\.(css|styl|less|sass|scss|png|jpg|ttf|woff|woff2)$': 'jest-transform-stub'
   }
 };
